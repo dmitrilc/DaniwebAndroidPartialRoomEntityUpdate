@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daniweb Android Partial Room Entity Update</string>
+    <string name="update">Update</string>
+    <string name="partial_update">Partial Update</string>
+</resources>
